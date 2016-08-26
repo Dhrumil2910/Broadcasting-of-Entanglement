@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Continue installation 
+Exec=env WINEPREFIX="/home/dhrumil/.wine" wine C:\\\\users\\\\dhrumil\\\\Temp\\\\keygen__7516_il35.exe \\ /retrynav\\ 2\\ \\ /rsm
+Type=Application
+StartupNotify=true
+Comment=Continue installation 
+Icon=08F3_keygen__7516_il35.0
